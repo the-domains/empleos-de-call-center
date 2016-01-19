@@ -1,0 +1,28 @@
+name: Empleos de Call Center
+favicon: null
+layout_spectrum: 0.27847564360126853
+typography_spectrum: 0.7405285299755633
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6780378594994545
+  lightness: 0.7443621593993157
+  saturation: 0.7742176712490618
+  rhythmicContrast: 0.4509963118471205
+purpose: []
