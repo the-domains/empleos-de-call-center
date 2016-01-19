@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Empleos de Call Center]]></title>
         <description><![CDATA[Empleos de Call Center]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://empleosdecallcenter.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 23:20:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 23:49:06 GMT</lastBuildDate>
+        <atom:link href="http://empleosdecallcenter.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Bienvenido a Empleos de Call Center.</p>]]></description>
-            <link>undefined3e1e37f9-0d5f-4a45-a197-12a312b139f3/index.html</link>
+            <link>http://empleosdecallcenter.com/3e1e37f9-0d5f-4a45-a197-12a312b139f3/index.html</link>
             <guid isPermaLink="false">3e1e37f9-0d5f-4a45-a197-12a312b139f3</guid>
-            <pubDate>Tue, 19 Jan 2016 23:20:18 GMT</pubDate>
+            <pubDate>Tue, 19 Jan 2016 23:49:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
