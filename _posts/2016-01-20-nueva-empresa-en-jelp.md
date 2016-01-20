@@ -11,8 +11,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://docs.google.com/forms/d/1WRuipb9G8Hsdmp6xsbOQX9sTKlGqf1LhXVGIDClDVRY/viewform'
 title: Nueva Empresa en Jelp
-datePublished: '2016-01-20T01:42:37.716Z'
-dateModified: '2016-01-20T01:42:24.593Z'
+datePublished: '2016-01-20T01:43:37.823Z'
+dateModified: '2016-01-20T01:43:24.891Z'
 sourcePath: _posts/2016-01-20-nueva-empresa-en-jelp.md
 published: true
 inFeed: true
