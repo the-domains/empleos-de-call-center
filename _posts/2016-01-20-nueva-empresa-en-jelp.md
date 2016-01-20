@@ -2,22 +2,25 @@
 author: []
 related: []
 publisher:
-  url: 'http://docs.google.com'
   name: Google Docs
-  favicon: 'https://ssl.gstatic.com/docs/spreadsheets/forms/favicon_qp2.png'
   domain: docs.google.com
+  url: 'http://docs.google.com'
+  favicon: 'https://ssl.gstatic.com/docs/spreadsheets/forms/favicon_qp2.png'
 keywords: []
 description: ''
 app_links: []
 isBasedOnUrl: 'https://docs.google.com/forms/d/1WRuipb9G8Hsdmp6xsbOQX9sTKlGqf1LhXVGIDClDVRY/viewform'
 title: Nueva Empresa en Jelp
-datePublished: '2016-01-20T01:43:37.823Z'
-dateModified: '2016-01-20T01:43:24.891Z'
+datePublished: '2016-01-20T07:42:13.307Z'
+dateModified: '2016-01-20T07:41:10.183Z'
 sourcePath: _posts/2016-01-20-nueva-empresa-en-jelp.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
