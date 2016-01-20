@@ -4,7 +4,7 @@
         <description><![CDATA[Empleos de Call Center]]></description>
         <link>http://empleosdecallcenter.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 01:47:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 07:08:15 GMT</lastBuildDate>
         <atom:link href="http://empleosdecallcenter.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,13 +61,6 @@
             <link>http://empleosdecallcenter.com/07bb0449-222a-45ba-89a6-75b1bfd31b4b/index.html</link>
             <guid isPermaLink="false">07bb0449-222a-45ba-89a6-75b1bfd31b4b</guid>
             <pubDate>Wed, 20 Jan 2016 00:27:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Industry News]]></title>
-            <description><![CDATA[<article><h1>Industry News</h1><p>ContactCenterWorld is the Global Association for Contact Center & Customer Service Best Practices & Networking</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/906a34548148f5930aa76a006c287561ecdecae1.jpg"></article>]]></description>
-            <link>http://www.contactcenterworld.com/news.aspx</link>
-            <guid isPermaLink="false">c23c357a-dceb-4e33-8129-19f69e24a222</guid>
-            <pubDate>Wed, 20 Jan 2016 00:05:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
